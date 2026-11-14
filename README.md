@@ -22,6 +22,6 @@ Current engineering priorities include glass substrates and coatings, optical co
 
 We welcome collaboration with glass manufacturing specialists, mechanical and product-development engineers, optical engineers, and research partners.
 
-**[Read the Glass Optics & Holographic Projection Engineering Feasibility Brief](docs/glass-optics-feasibility.md)**
+**[Read the Glass Optics & Holographic Projection Engineering Feasibility Brief](glass-optics-feasibility.md)**
 
 *Project status: Engineering feasibility investigation. Optical architectures and performance targets remain subject to validation.*
